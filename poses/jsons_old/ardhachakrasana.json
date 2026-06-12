@@ -1,0 +1,26 @@
+{
+  "name": "Ardha Chakrasana",
+  "hold_time": 10,
+  "checks": [
+    {
+      "id": "legs_straight",
+      "feedback": "Straighten legs"
+    },
+    {
+      "id": "back_bend",
+      "feedback": "Bend backward more"
+    },
+    {
+      "id": "chest_open",
+      "feedback": "Open chest"
+    },
+    {
+      "id": "hips_forward",
+      "feedback": "Push hips forward"
+    },
+    {
+      "id": "head_back",
+      "feedback": "Tilt head backward"
+    }
+  ]
+}

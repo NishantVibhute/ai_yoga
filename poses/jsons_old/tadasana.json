@@ -1,0 +1,42 @@
+{
+  "name": "Tadasana",
+
+  "hold_time": 10,
+
+  "checks": [
+    {
+      "id": "left_arm_straight",
+      "feedback": "Straighten left arm"
+    },
+
+    {
+      "id": "right_arm_straight",
+      "feedback": "Straighten right arm"
+    },
+
+    {
+      "id": "arms_up",
+      "feedback": "Raise arms above head"
+    },
+
+    {
+      "id": "wrists_together",
+      "feedback": "Bring hands together"
+    },
+
+    {
+      "id": "body_straight",
+      "feedback": "Stand straight"
+    },
+
+    {
+      "id": "left_leg_straight",
+      "feedback": "Straighten left leg"
+    },
+
+    {
+      "id": "right_leg_straight",
+      "feedback": "Straighten right leg"
+    }
+  ]
+}

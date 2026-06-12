@@ -1,0 +1,26 @@
+{
+  "name": "Vrikshasana",
+  "hold_time": 10,
+  "checks": [
+    {
+      "id": "arms_up",
+      "feedback": "Raise arms above head"
+    },
+    {
+      "id": "wrists_together",
+      "feedback": "Join palms together"
+    },
+    {
+      "id": "standing_leg_straight",
+      "feedback": "Straighten standing leg"
+    },
+    {
+      "id": "raised_leg_bent",
+      "feedback": "Lift foot higher on thigh"
+    },
+    {
+      "id": "body_balance",
+      "feedback": "Keep body upright"
+    }
+  ]
+}

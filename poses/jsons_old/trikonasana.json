@@ -1,0 +1,26 @@
+{
+  "name": "Trikonasana",
+  "hold_time": 10,
+  "checks": [
+    {
+      "id": "arms_straight",
+      "feedback": "Straighten both arms"
+    },
+    {
+      "id": "arms_vertical",
+      "feedback": "Align arms in one line"
+    },
+    {
+      "id": "side_bend",
+      "feedback": "Bend sideways more"
+    },
+    {
+      "id": "legs_wide",
+      "feedback": "Keep feet wider apart"
+    },
+    {
+      "id": "look_up",
+      "feedback": "Look toward upper hand"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Pada Hastasana",
+  "hold_time": 10,
+  "checks": [
+    {
+      "id": "legs_straight",
+      "feedback": "Straighten legs"
+    },
+    {
+      "id": "bend_forward",
+      "feedback": "Bend deeper forward"
+    },
+    {
+      "id": "hands_down",
+      "feedback": "Touch the floor"
+    },
+    {
+      "id": "head_down",
+      "feedback": "Relax head downward"
+    },
+    {
+      "id": "hips_high",
+      "feedback": "Lift hips upward"
+    }
+  ]
+}
